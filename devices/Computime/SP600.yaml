@@ -1,0 +1,8 @@
+model: SP600
+domains: switch 
+sensors: energy consumption (Watts), Temperature (Celsius)
+description: UK inline mains power switch, white, just slightly larger than plug. Overide toggle button on top illuminated with green LED green
+notes: Also sold as Salus SP600
+picture_url: 
+source: purchase
+link: https://salus-controls.com/uk/product/sp600/
